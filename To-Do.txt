@@ -1,0 +1,11 @@
+TO DO
+- Add more controls related to inflation in persistance modelling
+ - International Commodity prices (petroleum, food index?)
+ - Output? Expectations? problem with data availability
+
+- Add controls in ARMA/GARCH models
+ - Controls in the mean modeling inside the GARCH(p,q) models with observed inflation
+ - Same controls used in the persistance models
+
+- Multivariate GARCH models using variables like US inflation, commodities, output, expectations, etc.
+ 
