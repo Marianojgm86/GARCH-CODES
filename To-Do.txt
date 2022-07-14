@@ -1,5 +1,6 @@
 TO DO
 - Add more controls related to inflation in persistance modelling
+ - Consider different tipe of models.
  - International Commodity prices (petroleum, food index?)
  - Output? Expectations? problem with data availability
 
