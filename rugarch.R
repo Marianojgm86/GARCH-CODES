@@ -53,8 +53,7 @@ meanpred <- fitted(garchforercast)
 
 # plots 
 
-plot(garchvol)
-plot(volpred)
+
 
 # With mean model
 
